@@ -1,0 +1,7 @@
+{
+  "pizzas": [
+    { "id": 1, "name": "Margherita", "ingredients": "tomato, mozzarella, basil" },
+    { "id": 2, "name": "Marinara", "ingredients": "tomato, garlic, origan, anchovy, basil" },
+    { "id": 3, "name": "Diavola", "ingredients": "tomato, mozzarella, spicy salami, basil" }
+  ]
+}
