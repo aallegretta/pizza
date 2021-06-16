@@ -1,7 +1,7 @@
 {
   "pizzas": [
-    { "id": 1, "name": "Margherita", "ingredients": "tomato, mozzarella, basil" },
-    { "id": 2, "name": "Marinara", "ingredients": "tomato, garlic, origan, anchovy, basil" },
-    { "id": 3, "name": "Diavola", "ingredients": "tomato, mozzarella, spicy salami, basil" }
+    { "id": 1, "name": "Margherita", "ingredients": { "tomato":"100g", "mozzarella":"50g", "basil":"1g" } },
+    { "id": 2, "name": "Marinara", "ingredients": { "tomato":"100g", "garlic":"1g", "origan":"1g", "anchovy":"10g", "basil":"1g" } },
+    { "id": 3, "name": "Diavola", "ingredients": { "tomato":"100g", "mozzarella":"50g", "spicy salami":"30g", "basil":"1g" } }
   ]
 }
